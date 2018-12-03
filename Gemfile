@@ -75,3 +75,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'graphql'
 
 gem 'webpacker'
+
+gem 'bootstrap-sass'
