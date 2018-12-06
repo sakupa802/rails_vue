@@ -22,4 +22,8 @@ $ bundle exec rails g rspec:install
 ## 第5章
 
 * assetsからwebpack
+
+
+## 第6章
+
 * 
